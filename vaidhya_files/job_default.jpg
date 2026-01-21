@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+        <!-- meta tag -->
+        <meta charset="utf-8">
+        <title>Vaidhya Group of Companies</title>
+        <meta name="description" content="">
+        <!-- responsive tag -->
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- favicon -->
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <link rel="shortcut icon" type="image/x-icon" href="uploads/logo/1/Vaidhya Group of Companies_78152790_logo.png">
+        <!-- bootstrap v4 css -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <!-- <link rel="stylesheet" type="text/css" href="resources/css/bootstrap.min.css"> -->
+        <!-- font-awesome css -->
+        <link rel="stylesheet" type="text/css" href="resources/css/font-awesome.min.css">
+        <!-- animate css -->
+        <link rel="stylesheet" type="text/css" href="resources/css/animate.css">
+        <!-- owl.carousel css -->
+        <link rel="stylesheet" type="text/css" href="resources/css/owl.carousel.css">
+        <!-- slick css -->
+        <link rel="stylesheet" type="text/css" href="resources/css/slick.css">
+        <!-- magnific popup css -->
+        <link rel="stylesheet" type="text/css" href="resources/css/magnific-popup.css">
+        <!-- Offcanvas CSS -->
+        <link rel="stylesheet" type="text/css" href="resources/css/off-canvas.css">
+        <!-- flaticon css  -->
+        <link rel="stylesheet" type="text/css" href="resources/fonts/flaticon.css">
+        <!-- flaticon2 css  -->
+        <link rel="stylesheet" type="text/css" href="resources/fonts/fonts2/flaticon.css">
+        <!-- rsmenu CSS -->
+        <link rel="stylesheet" type="text/css" href="resources/css/rsmenu-main.css">
+        <!-- rsmenu transitions CSS -->
+        <link rel="stylesheet" type="text/css" href="resources/css/rsmenu-transitions.css">
+        <!-- style css -->
+        <link rel="stylesheet" type="text/css" href="resources/style.css">
+        <!-- responsive css -->
+        <link rel="stylesheet" type="text/css" href="resources/css/responsive.css">
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+      <!-- <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet"> -->
+   	  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/css/bootstrap-select.min.css" />
+		<style>
+        	.selectpicker option
+            {
+                    border: none;
+                    background-color: white;
+                    outline: none;
+                    -webkit-appearance: none;
+                    -moz-appearance : none;
+                    color: #000;
+                    margin: 0;
+                    padding-left: 0;
+                    background: none;
+                }
+            .selectpicker
+            {
+              border: 1px solid #afafaf;
+              background-color: white;
+              -webkit-appearance: none;
+              -moz-appearance: none;
+              color: #000;
+              margin: 0;
+              padding: 10px;
+           } 
+          .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+                width: 380px;
+            }
+            .selectpicker option
+            {
+                    border: none;
+                    background-color: white;
+                    outline: none;
+                    -webkit-appearance: none;
+                    -moz-appearance : none;
+                    color: #000;
+                    margin: 0;
+                    padding-left: 0;
+                    background: none;
+                }
+            select.selectpicker
+            {
+                    border: none;
+                    background-color: white;
+                    outline: none;
+                    -webkit-appearance: none;
+                    -moz-appearance : none;
+                    color: #000;
+                    font-weight: bold;
+                    margin: 0;
+                    padding-left: 0;
+                    background: none;
+                }
+  		</style>
+        <!-- GetButton.io widget -->
+        <script type="text/javascript">
+            (function () {
+                var options = {
+                    whatsapp: "+919039123114", // WhatsApp number
+                    call_to_action: "Message us", // Call to action
+                    button_color: "#FF6550", // Color of button
+                    position: "left", // Position may be 'right' or 'left'
+                };
+                var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+                var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+                s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+                var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+            })();
+        </script>
+        <!-- /GetButton.io widget -->
+
+</head>
+<body>
+    <style>
+    marquee p{
+        margin-bottom:0px;
+    }
+</style>
+<body class="home1">
+        <!--Preloader area start here-->
+       <!--  <div class="book_preload">
+            <div class="book">
+                <div class="book__page"></div>
+                <div class="book__page"></div>
+                <div class="book__page"></div>
+            </div>
+        </div> -->
+        <!--Preloader area end here-->
+        
+        <!--Full width header Start-->
+        <div class="full-width-header">
+
+            <!-- Toolbar Start -->
+            <div class="rs-toolbar" style="background-color: #424243">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="rs-toolbar-left">
+                                <div class="welcome-message">
+                                    <i class="fa fa-bank"></i><span>Welcome to Vaidhya Group of Companies</span> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="rs-toolbar-right">
+                                <div class="toolbar-share-icon">
+                                    <ul>
+                                                                            <li><a href="uploads/logo/1/Vaidhya App.apk" target="_blank"><i class="fa fa-android" style="font-size:24px; color:white"></i></a></li> 
+                                         
+                                                                                <li><a href="https://hi-in.facebook.com/" target="_blank"> <i class="fa fa-facebook"></i></a></li> 
+                                                                                <li><a href="https://www.instagram.com/" target="_blank"> <i class="fa fa-instagram "></i></a></li> 
+                                                                                <li><a href="https://in.linkedin.com/" target="_blank"> <i class="fa fa-linkedin"></i></a></li> 
+                                                                                <li><a href="https://telegram.org/" target="_blank"> <i class="fa fa-telegram"></i></a></li> 
+                                                                                <li><a href="https://twitter.com/i/flow/login" target="_blank"> <i class="fa fa-twitter"></i></a></li> 
+                                                                                <li><a href="https://www.youtube.com/@DITRPINDIAOFFICIALSATHESIR" target="_blank"> <i class="fa fa-youtube-play"></i></a></li> 
+                                          
+                                        <div id="google_translate_element"></div>  
+                                        <!--<li> -->
+                                        <!--    <div id="rs-calltoaction" class="rs-calltoaction">-->
+                                        <!--        <a class="cta-button" href="http://vaidhya.org/admin/index.php" style="font-size:14px;">Student Login</a>-->
+                                                
+                                        <!--        <a class="cta-button" href="http://vaidhya.org/admin" style="font-size:14px;">Institute Login</a>-->
+                                        <!--    </div> -->
+                                        <!--</li>                         -->
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Toolbar End -->
+            
+            <!--Header Start-->
+            <header id="rs-header" class="rs-header">
+                
+                <!-- Header Top Start -->
+                <div class="rs-header-top">
+                     <div class="container">                    
+                                                 <div class="row">
+                                       <div class="col-md-4 col-sm-12 logosection">
+                                                                <div class="logo-area">
+                                    <a href="index.php"><img src="uploads/logo/1/Vaidhya Group of Companies_78152790_logo.png" alt="logo" style="width: 150px;"></a>
+                                </div>
+                                  
+                            </div>
+                            
+                            <div class="col-md-4 col-sm-12 emailsection">
+                                <div class="header-contact" style="float: initial;">
+                                    <div id="info-details" class="widget-text">
+                                        <i class="glyph-icon flaticon-email"></i>
+                                        <div class="info-text">
+                                            <a href="mailto:hr@vaidhya.org">
+                                                <span>Mail Us</span>
+                                                hr@vaidhya.org                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                 
+                            <div class="col-md-4 col-sm-12 loginsection">
+                                <div class="pull-right display">
+                                    <div id="phone-details" class="widget-text" style="display: inline-flex; width: 100%;">
+                                        <i class="glyph-icon flaticon-phone-call mobilecall"></i>
+                                        <div class="info-text mobilecall">
+                                            <a href="tel:+919039123114">
+                                                <span>Call Us</span>
+                                                +919039123114                                             
+                                        
+                                            </a>
+                                        </div>
+                                            <div id="rs-calltoaction" class="rs-calltoaction" style="display: flex;">
+                                                <a class="cta-button" href="http://vaidhya.org/admin/index.php" style="font-size:14px;">Student Login</a>
+                                            
+                                                
+                                                <a class="cta-button" href="http://vaidhya.org/admin/index.php" style="font-size:14px;">Institute Login</a>
+                                            </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                      
+                    </div>
+                </div>
+                <!-- Header Top End -->
+
+                <!-- Menu Start -->
+                <div class="menu-area menu-sticky" style="background-color: #1fa1b2">
+                    <div class="container">
+                        <div class="main-menu">
+                            <div class="row relative">
+                                <div class="col-sm-12">                              
+                                    <a class="rs-menu-toggle"><i class="fa fa-bars"></i>Menu</a>
+                                    <nav class="rs-menu">
+                                        <ul class="nav-menu">                                          
+                                            <li class="current-menu-item current_page_item"> <a href="index.php" class="home">Home</a>                        
+                                            </li>                                           
+                                            <li  class="" > <a href="page.php?page=about_us">About Us</a></li> 
+                                            <li class=""> <a href="page.php?page=courses">Courses</a></li>
+                                            <li class=""> <a href="page.php?page=services">Our Services</a></li>  
+                                            <li class=""> <a href="page.php?page=achievers">Our Achievers</a></li>
+                                            <li class="menu-item-has-children "> <a href="#">Gallery</a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="page.php?page=galleryImages">Images</a></li>
+                                                    <li><a href="page.php?page=galleryVideos">Videos</a></li>
+                                                </ul>
+                                            </li>  
+                                            <!--<li> <a href="page.php?page=ourteam">Our Team</a></li>-->
+                                            <li class=""> <a href="page.php?page=jobupdates">Job Updates</a></li>
+                                             <li class=""> <a href="page.php?page=Certifications">Certifications</a></li>
+
+                                             <li class="menu-item-has-children "> <a href="#">Verification</a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="page.php?page=studentVerification">Student Verification</a></li>
+                                                    <li><a href="page.php?page=atcVerification">ATC Verification</a></li>
+                                                    <li><a href="page.php?page=oldCertificateVerification">Old Certficate Verification</a></li>
+                                                </ul>
+                                            </li>  
+                                            <li class=""> <a href="page.php?page=contact">Contact Us</a></li>
+
+                                            <li class=""> <a href="page.php?page=FranchiseRegistration">Franchise Registration</a></li>
+
+                                        </ul>
+                                    </nav>                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <marquee style="background-color: #4ce69e; color: #FFFFFF; font-size: 18px; padding: 10px;"> <p><span style="color: #c2e0f4; font-family: georgia, palatino, serif; font-size: 36pt;">Welcome To Vaidhya Group Of Companies&nbsp;</span></p>
+<ul>
+<li id="gtx-trans" style="position: absolute; left: -17px; top: 36.2px;">
+<div class="gtx-trans-icon" style="text-align: center;">&nbsp;</div>
+</li>
+</ul> </marquee>
+                            </header>
+            <!--Header End-->
+        </div>
+        <!--Full width header End--><!-- Slider Area Start -->
+<div id="rs-slider" class="slider-overlay-2" style="margin-top:10px">     
+    <div id="home-slider" class="rs-carousel owl-carousel" data-loop="true" data-items="1" data-margin="0" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="false" data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="true" data-mobile-device-dots="true" data-ipad-device="1" data-ipad-device-nav="true" data-ipad-device-dots="true" data-md-device="1" data-md-device-nav="true" data-md-device-dots="false">
+                     <div class="item active">
+                <img src="uploads/slider/23/_41658088_logo.png"/>                    
+            </div>                 
+                    <div class="item active">
+                <img src="uploads/slider/25/_70245781_logo.png"/>                    
+            </div>                 
+                    <div class="item active">
+                <img src="uploads/slider/22/_65420948_logo.png"/>                    
+            </div>                 
+                    <div class="item active">
+                <img src="uploads/slider/21/_64237448_logo.png"/>                    
+            </div>                 
+             
+
+    </div>         
+</div>
+<!-- Slider Area End -->    <!-- Services Start -->
+    <div class="rs-services rs-services-style1">
+            <div class="container">
+                <div class="row">
+                                        <div class="col-lg-3 col-md-6">
+                        <div class="services-item rs-animation-hover" style="background-color:#12690c">
+                            <div class="services-icon" style="background-color:#12690c">
+                                <i class="fa fa-american-sign-language-interpreting rs-animation-scale-up"></i>                             
+                            </div>
+                            <div class="services-desc">
+                                <h4 class="services-title">Vaidhya Organisation Private Limited</h4>
+                                <p>Education Training Placement</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-item rs-animation-hover" style="background-color:#f1331e">
+                            <div class="services-icon" style="background-color:#f1331e">                             
+                                <i class="fa fa-book rs-animation-scale-up"></i>
+                            </div>
+                            <div class="services-desc">
+                                <h4 class="services-title">Vaidshree Welfare Foundation Mandsaur</h4>
+                                <p>Non Profitable Organization</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-item rs-animation-hover" style="background-color:#d0361b">
+                            <div class="services-icon" style="background-color:#d0361b">
+                                <i class="fa fa-user rs-animation-scale-up"></i>
+                            </div>
+                            <div class="services-desc">
+                                <h4 class="services-title">Vaidhya Import Export</h4>
+                                <p>Export of Cooking Oil</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="services-item rs-animation-hover" style="background-color:#e91616">
+                            <div class="services-icon" style="background-color:#e91616">
+                                <i class="fa fa-graduation-cap rs-animation-scale-up"></i>
+                            </div>
+                            <div class="services-desc">
+                                <h4 class="services-title">Vaidhya Group Mandsaur</h4>
+                                <p>Education Institute</p>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+        <!-- Services End -->
+
+        <!-- About Us Start -->
+        <div id="rs-about" class="rs-about sec-spacer">
+            <div class="container">
+                <div class="sec-title mb-50 text-center">
+                    <h2>ABOUT US</h2>  
+                </div>
+                
+                                        <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="about-img rs-animation-hover">
+                                <img src="uploads/aboutus/1/Homepage_12264106.png" />                           
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="about-desc">  
+                                <p><p class="MsoNormal"><span style="font-size: 14pt;"><sup><span style="line-height: 107%; font-family: Aparajita, serif;">The Vaidhya Group of Companies, headquartered at B28 Mahu Neemuch Road, District Mandsaur, Madhya Pradesh, India 458001, is a diversified conglomerate dedicated to fostering growth and making a positive impact across various sectors. Established in 2016, our journey began with a strong foundation in education, evolving into a multi-faceted organization.</span></sup></span></p><p class="MsoNormal"><span style="font-size: 14pt;"><sup><span style="line-height: 107%; font-family: Aparajita, serif;">Under the umbrella of the Vaidhya Group, Vaidhya Organisation Pvt. Ltd. is committed to empowering individuals through comprehensive education, training, and placement services. Simultaneously, Vaidshree Welfare Foundation drives our social initiatives, tirelessly working on projects that benefit communities and contribute to societal well-being. Our global reach is extended through Vaidhya Import Export, specializing in the trade of quality cooking oil and unique slate pencils. At our core, Vaidhya Group Mandsaur continues to serve as a leading educational institute, upholding our foundational commitment to knowledge and learning.</span></sup></span></p><div style="mso-element: para-border-div; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .75pt; padding: 0cm 0cm 1.0pt 0cm;"><p class="MsoNormal" style="border: none; mso-border-bottom-alt: solid windowtext .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 1.0pt 0cm;"><span style="font-size: 14pt;"><sup><span style="line-height: 107%; font-family: Aparajita, serif;">We are united by a common vision: to deliver excellence, foster innovation, and contribute meaningfully to the progress of individuals and society.</span></sup></span></p></div></p>
+                            </div>                        
+                        </div>
+                    </div>
+
+                    <div class="row" style="margin-top: 10px">
+                         <div id="accordion" class="rs-accordion-style1">  
+                        <div class="col-lg-6 col-md-12">
+                            <div class="card">
+                                <div class="card-header active" id="headingTwo">
+                                    <h3 class="acdn-title">
+                                        Our Mission
+                                    </h3>
+                                </div>
+                                <div id="collapseTwo" class="collapse show">
+                                    <div class="card-body">
+                                        <p class="MsoNormal"><span style="font-size: 14pt;"><sup><span style="line-height: 107%; font-family: Aparajita, serif;">&nbsp;Our mission at Vaidhya Group of Companies is to foster sustainable growth and positive societal impact across all our ventures. We aim to be a leader in each sector we operate in &ndash; from empowering through quality education and training, to uplifting communities through dedicated social welfare initiatives, and fostering global trade through reliable import-export services. We are committed to upholding the highest standards of integrity, innovation, and client satisfaction, ultimately striving to contribute significantly to the economic and social development of Mandsaur, Madhya Pradesh, and beyond.</span></sup></span></p><div style="mso-element: para-border-div; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .75pt; padding: 0cm 0cm 1.0pt 0cm;"><p class="MsoNormal" style="border: none; mso-border-bottom-alt: solid windowtext .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 1.0pt 0cm;"><span style="font-size: 14pt;"><sup><span style="line-height: 107%; font-family: Aparajita, serif;">At Vaidhya Group, we believe in building strong foundations &ndash; be it in education, business, or community welfare &ndash; to create a brighter, more prosperous future</span></sup><sup><span style="line-height: 107%; font-family: 'Calibri Light', sans-serif;"> for all.</span></sup></span></p></div>                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                             <div class="card">
+                                <div class="card-header active mb-0">
+                                    <h3 class="acdn-title">
+                                        Our Vision
+                                    </h3>
+                                </div>
+                                <div id="collapseThree" class="collapse show">
+                                    <div class="card-body">
+                                        <h5><span style="font-family: Aparajita, serif; font-size: 14pt; font-weight: 400;">At Vaidhya Group of Companies, our vision is to foster holistic growth and sustainable development &ndash; empowering individuals through quality education and training, enriching communities through dedicated social initiatives, and connecting markets through reliable global trade. We strive to build a future where every endeavour contributes positively to society and the economy.</span></h5>                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                        
+
+                     <!--    <div id="accordion" class="rs-accordion-style1">                           
+                            <div class="card">
+                                <div class="card-header" id="headingTwo">
+                                    <h3 class="acdn-title" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Our Mission
+                                    </h3>
+                                </div>
+                                <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p class="MsoNormal"><span style="font-size: 14pt;"><sup><span style="line-height: 107%; font-family: Aparajita, serif;">&nbsp;Our mission at Vaidhya Group of Companies is to foster sustainable growth and positive societal impact across all our ventures. We aim to be a leader in each sector we operate in &ndash; from empowering through quality education and training, to uplifting communities through dedicated social welfare initiatives, and fostering global trade through reliable import-export services. We are committed to upholding the highest standards of integrity, innovation, and client satisfaction, ultimately striving to contribute significantly to the economic and social development of Mandsaur, Madhya Pradesh, and beyond.</span></sup></span></p><div style="mso-element: para-border-div; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .75pt; padding: 0cm 0cm 1.0pt 0cm;"><p class="MsoNormal" style="border: none; mso-border-bottom-alt: solid windowtext .75pt; padding: 0cm; mso-padding-alt: 0cm 0cm 1.0pt 0cm;"><span style="font-size: 14pt;"><sup><span style="line-height: 107%; font-family: Aparajita, serif;">At Vaidhya Group, we believe in building strong foundations &ndash; be it in education, business, or community welfare &ndash; to create a brighter, more prosperous future</span></sup><sup><span style="line-height: 107%; font-family: 'Calibri Light', sans-serif;"> for all.</span></sup></span></p></div>                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header mb-0" id="headingThree">
+                                    <h3 class="acdn-title collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Our Vision
+                                    </h3>
+                                </div>
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <h5><span style="font-family: Aparajita, serif; font-size: 14pt; font-weight: 400;">At Vaidhya Group of Companies, our vision is to foster holistic growth and sustainable development &ndash; empowering individuals through quality education and training, enriching communities through dedicated social initiatives, and connecting markets through reliable global trade. We strive to build a future where every endeavour contributes positively to society and the economy.</span></h5>                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+
+
+                     
+                </div>
+            </div>
+        </div>
+        <!-- About Us End -->
+
+        <!-- Courses Start -->
+        <div id="rs-courses" class="rs-courses sec-color sec-spacer">
+            <div class="container">
+                <div class="sec-title mb-50 text-center">
+                    <h2>OUR POPULAR COURSES</h2> 
+                </div>
+
+                 <div class="rs-courses-3">
+                    <div class="container">                                   
+                        <div class="row grid">
+                            
+                            <div class="col-lg-4 col-md-6 grid-item">
+                                <div class="course-item">
+                                    <div class="course-img">
+                                        <img src="uploads/course/material/2/S-CKR101_logo.jpg" alt="" />
+                                        <!-- <span class="course-value">Rs. 236000.00/-</span> -->
+                                        <div class="course-toolbar">                                       
+                                            <div class="course-duration">
+                                                <i class="fa fa-clock-o"></i> 6 MONTH                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="course-body">
+                                        <div class="course-desc">
+                                            <h4 class="course-title"><a href="page.php?page=course-details&id=3"> Banking Program Certificate IN BANK OFFICER PROGRAM ( S-CKR101 )</a></h4>
+                                                                                       	<div class="columns">
+                                                <ul class="price">
+                                                    <li class="header"><h4 class="course-value">Course Fees : 236000.00/- <span style="text-decoration: line-through; color: red;"> 276000.00/- </span> </h4></li>
+                                             
+                                                    <li><h5 class="course-value">Minimum Amount To Pay :  Rs.2360.00</h5></li>
+                                                </ul>
+                                            </div>  
+                                                                                       <p>
+                                                Course Code : S-CKR101                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="course-footer">
+                                        <div class="course-button">
+                                            <a href="page.php?page=course-enquiry&id=3">ENQUIRY NOW</a>
+                                        </div>    
+                                        
+                                        <div class="course-button">
+        		                    		<a href="page.php?page=course-details&id=3">DETAILS</a>
+        		                    	</div>
+                                    </div>
+                                </div>                      
+                            </div>
+                            
+                            <div class="col-lg-4 col-md-6 grid-item">
+                                <div class="course-item">
+                                    <div class="course-img">
+                                        <img src="uploads/course/material/1/VOPL-MDS-D2_logo.jpeg" alt="" />
+                                        <!-- <span class="course-value">Rs. 15000.00/-</span> -->
+                                        <div class="course-toolbar">                                       
+                                            <div class="course-duration">
+                                                <i class="fa fa-clock-o"></i> 1 YEAR                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="course-body">
+                                        <div class="course-desc">
+                                            <h4 class="course-title"><a href="page.php?page=course-details&id=2"> DIPLOMA IN DCA ( VOPL-MDS-D2 )</a></h4>
+                                                                                       	<div class="columns">
+                                                <ul class="price">
+                                                    <li class="header"><h4 class="course-value">Course Fees : 15000.00/- <span style="text-decoration: line-through; color: red;"> 25000.00/- </span> </h4></li>
+                                             
+                                                    <li><h5 class="course-value">Minimum Amount To Pay :  Rs.5000.00</h5></li>
+                                                </ul>
+                                            </div>  
+                                                                                       <p>
+                                                Course Code : VOPL-MDS-D2                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="course-footer">
+                                        <div class="course-button">
+                                            <a href="page.php?page=course-enquiry&id=2">ENQUIRY NOW</a>
+                                        </div>    
+                                        
+                                        <div class="course-button">
+        		                    		<a href="page.php?page=course-details&id=2">DETAILS</a>
+        		                    	</div>
+                                    </div>
+                                </div>                      
+                            </div>
+                            
+                            <div class="col-lg-4 col-md-6 grid-item">
+                                <div class="course-item">
+                                    <div class="course-img">
+                                        <img src="uploads/course_with_sub/material/1/01_logo.jpeg" alt="" />
+                                        <!-- <span class="course-value">Rs. 7000.00/-</span> -->
+                                        <div class="course-toolbar">                                       
+                                            <div class="course-duration">
+                                                <i class="fa fa-clock-o"></i> 12 MONTHS                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="course-body">
+                                        <div class="course-desc">
+                                            <h4 class="course-title"><a href="page.php?page=course-details&id=1"> DIPLOMA IN COMPUTER APPLICATION ( M-01 )</a></h4>
+                                                                                       	<div class="columns">
+                                                <ul class="price">
+                                                    <li class="header"><h4 class="course-value">Course Fees : 7000.00/- <span style="text-decoration: line-through; color: red;"> 9000.00/- </span> </h4></li>
+                                             
+                                                    <li><h5 class="course-value">Minimum Amount To Pay :  Rs.500.00</h5></li>
+                                                </ul>
+                                            </div>  
+                                                                                       <p>
+                                                Course Code : M-01                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="course-footer">
+                                        <div class="course-button">
+                                            <a href="page.php?page=course-enquiry&id=1">ENQUIRY NOW</a>
+                                        </div>    
+                                        
+                                        <div class="course-button">
+        		                    		<a href="page.php?page=course-details&id=1">DETAILS</a>
+        		                    	</div>
+                                    </div>
+                                </div>                      
+                            </div>
+                            
+                            <div class="col-lg-4 col-md-6 grid-item">
+                                <div class="course-item">
+                                    <div class="course-img">
+                                        <img src="uploads/course/material/4/S-CKR102_logo.jpg" alt="" />
+                                        <!-- <span class="course-value">Rs. 80000.00/-</span> -->
+                                        <div class="course-toolbar">                                       
+                                            <div class="course-duration">
+                                                <i class="fa fa-clock-o"></i> 6 MONTH                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="course-body">
+                                        <div class="course-desc">
+                                            <h4 class="course-title"><a href="page.php?page=course-details&id=5"> Professional Program IN LENSKART EYETECH PROGRAM ( S-S-CKR102 )</a></h4>
+                                                                                       	<div class="columns">
+                                                <ul class="price">
+                                                    <li class="header"><h4 class="course-value">Course Fees : 80000.00/- <span style="text-decoration: line-through; color: red;"> 100000.00/- </span> </h4></li>
+                                             
+                                                    <li><h5 class="course-value">Minimum Amount To Pay :  Rs.10000.00</h5></li>
+                                                </ul>
+                                            </div>  
+                                                                                       <p>
+                                                Course Code : S-S-CKR102                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="course-footer">
+                                        <div class="course-button">
+                                            <a href="page.php?page=course-enquiry&id=5">ENQUIRY NOW</a>
+                                        </div>    
+                                        
+                                        <div class="course-button">
+        		                    		<a href="page.php?page=course-details&id=5">DETAILS</a>
+        		                    	</div>
+                                    </div>
+                                </div>                      
+                            </div>
+                            
+                            <div class="col-lg-4 col-md-6 grid-item">
+                                <div class="course-item">
+                                    <div class="course-img">
+                                        <img src="uploads/course/material/5/S-CKR103_logo.png" alt="" />
+                                        <!-- <span class="course-value">Rs. 65000.00/-</span> -->
+                                        <div class="course-toolbar">                                       
+                                            <div class="course-duration">
+                                                <i class="fa fa-clock-o"></i> 30 DAYS                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="course-body">
+                                        <div class="course-desc">
+                                            <h4 class="course-title"><a href="page.php?page=course-details&id=6"> Professional Program IN TEST BOOK ELITE SALES PROGRAM ( S-S-CKR103 )</a></h4>
+                                                                                       	<div class="columns">
+                                                <ul class="price">
+                                                    <li class="header"><h4 class="course-value">Course Fees : 65000.00/- <span style="text-decoration: line-through; color: red;"> 85000.00/- </span> </h4></li>
+                                             
+                                                    <li><h5 class="course-value">Minimum Amount To Pay :  Rs.10000.00</h5></li>
+                                                </ul>
+                                            </div>  
+                                                                                       <p>
+                                                Course Code : S-S-CKR103                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="course-footer">
+                                        <div class="course-button">
+                                            <a href="page.php?page=course-enquiry&id=6">ENQUIRY NOW</a>
+                                        </div>    
+                                        
+                                        <div class="course-button">
+        		                    		<a href="page.php?page=course-details&id=6">DETAILS</a>
+        		                    	</div>
+                                    </div>
+                                </div>                      
+                            </div>
+                                                      
+                        </div>               
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Courses End -->
+
+        <!-- Events Start -->
+        <div id="rs-events" class="rs-events sec-spacer">
+            <div class="container">
+                <div class="sec-title mb-50 text-center">
+                    <h2>OUR ACHIEVERS</h2> 
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="rs-carousel owl-carousel" data-loop="false" data-items="4" data-margin="0" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="false" data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="true" data-mobile-device-dots="true" data-ipad-device="1" data-ipad-device-nav="true" data-ipad-device-dots="true" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Events End -->
+        
+        <!-- Team Start -->
+        <div id="rs-team" class="rs-team sec-color sec-spacer">
+            <div class="container">
+                <div class="sec-title mb-50 text-center">
+                    <h2>OUR EXPERIENCED STAFFS</h2>   
+                </div>
+                <div class="rs-carousel owl-carousel" data-loop="false" data-items="4" data-margin="0" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="false" data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="true" data-mobile-device-dots="true" data-ipad-device="1" data-ipad-device-nav="true" data-ipad-device-dots="true" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
+                                        <div class="team-item pd-25">
+                        <div class="team-img">
+                            <img class="team-home" src="uploads/ourteam/11/Mrs. Uma Khutwa_6429318_11_T.jpg" alt="team Image" />
+                            <div class="normal-text">
+                                <h3 class="team-name">Mrs. Uma Khutwa</h3>
+                                <span class="subtitle">Human resource Manager</span>
+                            </div>
+                        </div>
+                        <div class="team-content">
+                            <div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+                                    <h3 class="team-name"><a href="teachers-single.html">Mrs. Uma Khutwa</a></h3>
+                                    <span class="team-title">Human resource Manager</span>
+                                    <p class="team-desc">Mrs. Uma Khutwal serves as the dynamic and accomplished Human Resources Manager at Vadhya Group of Companies. With a robust career spanning 12 years of dedicated experience in the Human Resources domain,</p>
+                                    <!-- <div class="team-social">
+                                        <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="team-item pd-25">
+                        <div class="team-img">
+                            <img class="team-home" src="uploads/ourteam/10/Miss Mamta Bhati_56341554_logo.jpg" alt="team Image" />
+                            <div class="normal-text">
+                                <h3 class="team-name">Miss Mamta Bhati</h3>
+                                <span class="subtitle">Support Executive</span>
+                            </div>
+                        </div>
+                        <div class="team-content">
+                            <div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+                                    <h3 class="team-name"><a href="teachers-single.html">Miss Mamta Bhati</a></h3>
+                                    <span class="team-title">Support Executive</span>
+                                    <p class="team-desc">Miss Mamta Bhati is a dedicated Support Executive at Vaidhya Organisation Pvt Ltd, bringing over a year of valuable experience to our team. With a total of more than three years in the field, Mamta is highly skilled in complaint resolution and tele-counselling,</p>
+                                    <!-- <div class="team-social">
+                                        <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="team-item pd-25">
+                        <div class="team-img">
+                            <img class="team-home" src="uploads/ourteam/9/Mr. Aazam Qureshi_11574777_logo.jpg" alt="team Image" />
+                            <div class="normal-text">
+                                <h3 class="team-name">Mr. Aazam Qureshi</h3>
+                                <span class="subtitle">Relationship Officer</span>
+                            </div>
+                        </div>
+                        <div class="team-content">
+                            <div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+                                    <h3 class="team-name"><a href="teachers-single.html">Mr. Aazam Qureshi</a></h3>
+                                    <span class="team-title">Relationship Officer</span>
+                                    <p class="team-desc">Aazam Qureshi is a seasoned Relationship Officer at Vaidhya Organisation Pvt. Ltd., leveraging over 8 years of diverse experience across client relationship building, school education, and ground counseling. Having been with us for the last three years, Aazam is committed to ensuring our clients receive exceptional service and support.</p>
+                                    <!-- <div class="team-social">
+                                        <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="team-item pd-25">
+                        <div class="team-img">
+                            <img class="team-home" src="uploads/ourteam/8/Mrs. Shilpa Devda_31486641_logo.jpg" alt="team Image" />
+                            <div class="normal-text">
+                                <h3 class="team-name">Mrs. Shilpa Devda</h3>
+                                <span class="subtitle">Human resource Executive</span>
+                            </div>
+                        </div>
+                        <div class="team-content">
+                            <div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+                                    <h3 class="team-name"><a href="teachers-single.html">Mrs. Shilpa Devda</a></h3>
+                                    <span class="team-title">Human resource Executive</span>
+                                    <p class="team-desc">Mrs. Shilpa Devda serves as our Human Resource Executive, bringing over 8 years of invaluable experience to Vaidhya Organisation Pvt. Ltd. In her 4 years with our company, Shilpa has leveraged her diverse background in telecommunication, banking, and job portals to foster a supportive and efficient work environment. Her expertise is crucial in managing our most important asset: our people.</p>
+                                    <!-- <div class="team-social">
+                                        <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="team-item pd-25">
+                        <div class="team-img">
+                            <img class="team-home" src="uploads/ourteam/6/Mr. Vaibhav Tandi_69445490_logo.jpg" alt="team Image" />
+                            <div class="normal-text">
+                                <h3 class="team-name">Mr. Vaibhav Tandi</h3>
+                                <span class="subtitle">Counselor</span>
+                            </div>
+                        </div>
+                        <div class="team-content">
+                            <div class="overly-border"></div>
+                            <div class="display-table">
+                                <div class="display-table-cell">
+                                    <h3 class="team-name"><a href="teachers-single.html">Mr. Vaibhav Tandi</a></h3>
+                                    <span class="team-title">Counselor</span>
+                                    <p class="team-desc">Vaibhav Tandi is a Counselor at Vaidhya Organisation Pvt Ltd, with over 5 years of experience in the education and finance sectors. He has been a valuable member of our team for the past year, providing expert guidance to our clients.</p>
+                                    <!-- <div class="team-social">
+                                        <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
+                                        <a href="#" class="social-icon"><i class="fa fa-pinterest-p"></i></a>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+        <!-- Team End -->
+
+        <!-- Products Start -->
+        <div  id="rs-events" class="rs-events sec-spacer sec-color">
+            <div class="container">
+                <div class="sec-title mb-50 text-center">
+                    <h2>JOB UPDATES</h2>  
+                </div>
+            	<div class="rs-carousel owl-carousel" data-loop="false" data-items="3" data-margin="30" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="true" data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="true" data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="true" data-ipad-device-dots="true" data-md-device="3" data-md-device-nav="true" data-md-device-dots="true">
+                	     		                <div class="event-item">
+		                    <div class="event-img">
+		                        <img src="resources/default_images/job_default.jpg" alt="" style="height:200px"/>
+                                <a class="image-link" href="page.php?page=job-details&id=42" title="University Tour 2018">
+                                    <i class="fa fa-link"></i>
+                                </a>
+		                    </div>
+                            <div class="events-details white-bg">
+                                <div class="event-date">
+                                    <i class="fa fa-calendar"></i>
+                                    <span>Start Date : 2025-11-01</span>
+                                    <br/>
+                                    <i class="fa fa-calendar"></i>
+                                    <span>Last Date : 2025-12-31</span>
+                                </div>
+                                <h4 class="event-title"><a href="page.php?page=job-details&id=42">Logistic supervisor</a></h4>
+                                 <div class="event-meta">
+                                    <div class="event-location">
+                                        <span>Job Code : MDS/014/15/17</span>
+                                    </div>
+                                </div>
+                                <div class="event-btn">
+                                    <a class="btn btn-primary" href="page.php?page=job-details&id=42">View Details <i class="fa fa-angle-double-right"></i></a>
+                                </div>
+	                    	</div>
+		                </div>
+	                     		                <div class="event-item">
+		                    <div class="event-img">
+		                        <img src="resources/default_images/job_default.jpg" alt="" style="height:200px"/>
+                                <a class="image-link" href="page.php?page=job-details&id=41" title="University Tour 2018">
+                                    <i class="fa fa-link"></i>
+                                </a>
+		                    </div>
+                            <div class="events-details white-bg">
+                                <div class="event-date">
+                                    <i class="fa fa-calendar"></i>
+                                    <span>Start Date : 2025-11-01</span>
+                                    <br/>
+                                    <i class="fa fa-calendar"></i>
+                                    <span>Last Date : 2025-12-31</span>
+                                </div>
+                                <h4 class="event-title"><a href="page.php?page=job-details&id=41">Lead Generation 1</a></h4>
+                                 <div class="event-meta">
+                                    <div class="event-location">
+                                        <span>Job Code : MDS/014/15/25</span>
+                                    </div>
+                                </div>
+                                <div class="event-btn">
+                                    <a class="btn btn-primary" href="page.php?page=job-details&id=41">View Details <i class="fa fa-angle-double-right"></i></a>
+                                </div>
+	                    	</div>
+		                </div>
+	                     		                <div class="event-item">
+		                    <div class="event-img">
+		                        <img src="uploads/jobpost/17/Jobpost_72943986_17_T.jpg" alt="" style="height:200px"/>
+                                <a class="image-link" href="page.php?page=job-details&id=17" title="University Tour 2018">
+                                    <i class="fa fa-link"></i>
+                                </a>
+		                    </div>
+                            <div class="events-details white-bg">
+                                <div class="event-date">
+                                    <i class="fa fa-calendar"></i>
+                                    <span>Start Date : 2025-11-17</span>
+                                    <br/>
+                                    <i class="fa fa-calendar"></i>
+                                    <span>Last Date : 2025-12-31</span>
+                                </div>
+                                <h4 class="event-title"><a href="page.php?page=job-details&id=17">Life insurance</a></h4>
+                                 <div class="event-meta">
+                                    <div class="event-location">
+                                        <span>Job Code : MDS/014/15/10</span>
+                                    </div>
+                                </div>
+                                <div class="event-btn">
+                                    <a class="btn btn-primary" href="page.php?page=job-details&id=17">View Details <i class="fa fa-angle-double-right"></i></a>
+                                </div>
+	                    	</div>
+		                </div>
+	                     		            </div>
+            </div>
+        </div>
+        
+        <!-- Testimonial Start -->
+        <div id="rs-testimonial" class="rs-testimonial bg5 sec-spacer">
+            <div class="container">
+                <div class="sec-title mb-50 text-center">
+                    <h2 class="white-color">WHAT PEOPLE SAYS</h2>     
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div  class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="true" data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="true" data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="true" data-ipad-device-dots="true" data-md-device="2" data-md-device-nav="true" data-md-device-dots="true">
+                                                    <div class="testimonial-item">
+                                <div class="testi-img">
+                                    <img src="uploads/testmonial/29/Mr. And Mrs. Gupta, Parents_109938764_logo.jpg" alt="Jhon Smith">
+                                </div>
+                                <div class="testi-desc">
+                                    <h4 class="testi-name">Mr. And Mrs. Gupta, Parents</h4>
+                                    <p>
+                                        As parents, we were anxious about our son&#039;s future after his 12th grade. We wanted the best for him but didn&#039;t know how to navigate the complex world of modern careers and admissions. Contacting Vaidhya Organisation was the best decision we made. They treated our son&#039;s future as their own, providing a complete roadmap from career counseling to university selection and final admission. Their professionalism and genuine care gave us immense peace of mind. We highly recommend Vaidhya Organisation to any parent seeking a reliable guide for their child&#039;s educational journey.                                    </p>
+                                </div>
+                            </div>
+                                                    <div class="testimonial-item">
+                                <div class="testi-img">
+                                    <img src="uploads/testmonial/28/Ankit Verma, Software Developer_41764824_28_T.jpg" alt="Jhon Smith">
+                                </div>
+                                <div class="testi-desc">
+                                    <h4 class="testi-name">Ankit Verma, Software Developer</h4>
+                                    <p>
+                                        Having a degree is one thing, but landing the right job is a completely different challenge. I was struggling for months with no success. Vaidhya Organisation’s placement assistance program was the turning point. They helped me professionally redesign my resume, conducted mock interviews that built my confidence, and connected me with companies in their network. Within a month, I had two job offers! I am incredibly grateful for their professional support and guidance which helped me start my career.                                    </p>
+                                </div>
+                            </div>
+                                                    <div class="testimonial-item">
+                                <div class="testi-img">
+                                    <img src="uploads/testmonial/27/Priya Sharma, B.Com (Hons.) Student_79104164_27_T.png" alt="Jhon Smith">
+                                </div>
+                                <div class="testi-desc">
+                                    <h4 class="testi-name">Priya Sharma, B.Com (Hons.) Student</h4>
+                                    <p>
+                                        After my 12th boards, I was overwhelmed with the number of courses and colleges. I had no idea what career path was right for me. The team at Vaidhya Organisation was a lifesaver. Their career counseling session helped me understand my own strengths and interests. They created a personalized list of universities that were a perfect fit for me and guided me meticulously through each and every application form. Today, I am studying my dream course at a top university, all thanks to their expert guidance.                                    </p>
+                                </div>
+                            </div>
+                                                    <div class="testimonial-item">
+                                <div class="testi-img">
+                                    <img src="uploads/testmonial/26/Rohan, Student (Completed Class 12th via GMVSS)_13944151_26_T.jpg" alt="Jhon Smith">
+                                </div>
+                                <div class="testi-desc">
+                                    <h4 class="testi-name">Rohan, Student (Completed Class 12th via GMVSS)</h4>
+                                    <p>
+                                        After a gap of three years in my studies, I had lost all hope of completing my Class 12th. The process for open schooling seemed so confusing. Then I found Vaidhya Organisation. Their counselors were incredibly patient and supportive. They guided me through the entire GMVSS admission process, helped me select the right subjects, and provided constant encouragement. Thanks to them, I have successfully cleared my exams and am now planning for college. They didn&#039;t just give me admission; they gave me back my confidence.                                    </p>
+                                </div>
+                            </div>
+                                                    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+<!-- Partner Start -->
+<div id="rs-partner" class="rs-partner pt-70 pb-70">
+    <div class="container">
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="80" data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="2000" data-dots="false" data-nav="false" data-nav-speed="false" data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="4" data-ipad-device-nav="false" data-ipad-device-dots="false" data-md-device="4" data-md-device-nav="false" data-md-device-dots="false">
+                    </div>
+    </div>
+</div>
+<!-- Partner End -->
+
+
+<!-- Footer Start -->
+<footer id="rs-footer" class="bg8 blue-bg rs-footer">
+    <div class="blue-overlay" style="background-color: #000000"></div>
+    <div class="container">
+        <!-- Footer Address -->
+        <div>
+                                <div class="row footer-contact-desc" style="background-color: #000000">
+                        <div class="col-md-4">
+                            <div class="contact-inner">
+                                <i class="fa fa-map-marker"></i>
+                                <h4 class="contact-title">Address</h4>
+                                <p class="contact-desc">
+                                    B28 Mahu Neemuch Road Dist. Mandsaur Madhya Pradesh, India 458001                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="contact-inner">
+                                <i class="fa fa-phone"></i>
+                                <h4 class="contact-title">Phone Number</h4>
+                                <p class="contact-desc">
+                                    +919039123114<br>
+                                    +919406857563                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="contact-inner">
+                                <i class="fa fa-map-marker"></i>
+                                <h4 class="contact-title">Email Address</h4>
+                                <p class="contact-desc">
+                                    hr@vaidhya.org                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+    </div>
+
+    <!-- Footer Top -->
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <h5 class="footer-title">RECENT BLOGS</h5>
+                    <div class="recent-post-widget">
+                                                        <div class="post-item">
+                                    <div class="post-date">
+                                        <img src="uploads/blogs/5/blogs_4350202_5.png" />
+                                    </div>
+                                    <div class="post-desc">
+                                        <h5 class="post-title"><a href="page.php?page=BlogDetails&id=5">Quality from Mandsaur to the World: The Global Vision of Vaidhya Import Export</a></h5>
+                                    </div>
+                                </div>
+                                                        <div class="post-item">
+                                    <div class="post-date">
+                                        <img src="uploads/blogs/4/blogs_122311654_4.png" />
+                                    </div>
+                                    <div class="post-desc">
+                                        <h5 class="post-title"><a href="page.php?page=BlogDetails&id=4">More Than Business: The Heartbeat of Vaidhya Group – Vaidshree Welfare Foundation</a></h5>
+                                    </div>
+                                </div>
+                                            </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <h5 class="footer-title">Quick Links</h5>
+                    <ul class="sitemap-widget">
+                        <li class="active"><a href="index.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Home</a></li>
+
+                        <li><a href="page.php?page=terms"><i class="fa fa-angle-right" aria-hidden="true"></i>Terms & Conditions</a></li>
+
+
+
+                        <li><a href="page.php?page=privacy"><i class="fa fa-angle-right" aria-hidden="true"></i>Privacy Policies</a></li>
+
+                        <li><a href="page.php?page=paymentMethods"><i class="fa fa-angle-right" aria-hidden="true"></i>Payments Methods</a></li>
+
+                        <li><a href="page.php?page=refundPolicy"><i class="fa fa-angle-right" aria-hidden="true"></i>Refund policies</a></li>
+
+                        <li><a href="page.php?page=disclaimer"><i class="fa fa-angle-right" aria-hidden="true"></i>Disclaimer</a></li>
+
+                        <li><a href="page.php?page=ourBlogs"><i class="fa fa-angle-right" aria-hidden="true"></i>Our Blogs</a></li>
+
+                        <li><a href="page.php?page=affiliations"><i class="fa fa-angle-right" aria-hidden="true"></i>Our Affiliations</a></li>
+
+                        <li><a href="page.php?page=ourteam"><i class="fa fa-angle-right" aria-hidden="true"></i>Our Team</a></li>
+
+                        <li><a href="page.php?page=ourCenters"><i class="fa fa-angle-right" aria-hidden="true"></i>Our Register Center's</a></li>
+
+                        <li><a href="page.php?page=franchiseDetails"><i class="fa fa-angle-right" aria-hidden="true"></i>Franchise Details</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-share">
+                <ul>
+                                                <li><a href="https://hi-in.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="https://www.instagram.com/"><i class="fa fa-instagram "></i></a></li>
+                                                <li><a href="https://in.linkedin.com/"><i class="fa fa-linkedin"></i></a></li>
+                                                <li><a href="https://telegram.org/"><i class="fa fa-telegram"></i></a></li>
+                                                <li><a href="https://twitter.com/i/flow/login"><i class="fa fa-twitter"></i></a></li>
+                                                <li><a href="https://www.youtube.com/@DITRPINDIAOFFICIALSATHESIR"><i class="fa fa-youtube-play"></i></a></li>
+                                    </ul>
+            </div>
+
+            <!-- <div style="text-align:center; margin-top:20px; float:right">                        
+                        Visitor Count 
+                        <a href='http://www.freevisitorcounters.com'>at freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=7289bb0eb47c0910f5b3402d7fba857f55ae76d9'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1076061/t/3"></script>
+                    </div> -->
+
+
+        </div>
+    </div>
+
+
+    <!-- Footer Bottom -->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="copyright">
+                <p>Copyright © 2025 All right reserved designed by : <a href="https://ditrpindia.org/" target="_blank"> DITRP INDIA </a> </p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer End -->
+
+<!-- start scrollUp  -->
+<div id="scrollUp">
+    <i class="fa fa-angle-up"></i>
+</div>
+
+
+<!--   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> -->
+<!-- <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script> -->
+
+<!-- modernizr js -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="resources/js/modernizr-2.8.3.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/js/bootstrap-select.min.js"></script>
+
+<!--        
+        <script src="resources/js/jquery.min.js"></script>
+       
+         <script src="resources/js/bootstrap.min.js"></script> -->
+<!-- owl.carousel js -->
+<script src="resources/js/owl.carousel.min.js"></script>
+<!-- slick.min js -->
+<script src="resources/js/slick.min.js"></script>
+<!-- isotope.pkgd.min js -->
+<script src="resources/js/isotope.pkgd.min.js"></script>
+<!-- imagesloaded.pkgd.min js -->
+<script src="resources/js/imagesloaded.pkgd.min.js"></script>
+<!-- wow js -->
+<script src="resources/js/wow.min.js"></script>
+<!-- counter top js -->
+<script src="resources/js/waypoints.min.js"></script>
+<script src="resources/js/jquery.counterup.min.js"></script>
+<!-- magnific popup -->
+<script src="resources/js/jquery.magnific-popup.min.js"></script>
+<!-- rsmenu js -->
+<script src="resources/js/rsmenu-main.js"></script>
+<!-- plugins js -->
+<script src="resources/js/plugins.js"></script>
+<!-- main js -->
+<script src="resources/js/main.js"></script>
+
+<!-- Multi Language Code -->
+<!--  <script type="text/javascript">
+                function googleTranslateElementInit() {
+                  new google.translate.TranslateElement({pageLanguage: 'en',layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+         <script type="text/javascript">
+            var translatedText='';
+                var interval=setInterval(function(){
+                   var el=document.getElementsByClassName('goog-te-menu-value')[0];  
+                   if(el && el.innerText!==translatedText){
+                        translatedText=el.innerText;
+                        console.log('changed');
+                    }
+                },200);
+         </script> -->
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        setCookie('googtrans', '/en/pt', 1);
+        new google.translate.TranslateElement({
+            pageLanguage: 'en',
+            includedLanguages: 'en,hi,mr,ur,bn,bho,gu,doi,kn,gom,mr,ne,ml,pa,sa,sd,te,ta'
+        }, 'google_translate_element');
+    }
+
+    function setCookie(key, value, expiry) {
+        var expires = new Date();
+        expires.setTime(expires.getTime() + (expiry * 24 * 60 * 60 * 1000));
+        document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+    }
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Course Enquiry Form</h4>
+            </div>
+            <form action="" method="post">
+                <div class="modal-body">
+                    <div class="row">
+
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Select Course*</label>
+                                <select class="form-control" id="course_id" name="course_id">
+                                    <option value="1" >DCA</option><option value="2" >BANK OFFICER PROGRAM</option><option value="5" >TEST BOOK ELITE SALES PROGRAM</option><option value="3" >PGDCA</option><option value="4" >LENSKART EYETECH PROGRAM</option>                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Full Name*</label>
+                                <input id="fullname" name="fullname" class="form-control" type="text">
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Email Id*</label>
+                                <input name="emailId" class="form-control" type="email">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Mobile Number*</label>
+                                <input id="mobile" name="mobile" class="form-control" type="text">
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Message</label>
+                                <input name="message" class="form-control" type="text">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <input class="btn-send" type="submit" name="submit_enquiry" value="Submit">
+
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </form>
+
+        </div>
+
+    </div>
+</div>
+
+
+<div class="modal fade" id="jobApply" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Job Enquiry Form</h4>
+            </div>
+            <form action="" method="post">
+                <div class="modal-body">
+                    <div class="row">
+
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Select Job*</label>
+                                <select class="form-control" id="job_id" name="job_id" required>
+                                    <option value=""> Select </option>
+                                    <option value="1" >SECURITY GUARD</option><option value="2" >MUSIC TEACHER</option><option value="3" >BUS DRIVER</option><option value="4" >TALLY CALLING</option><option value="5" >D-MART STORE MANAGEMENT</option><option value="6" >DELIVERY BOY</option><option value="7" >SALES OFFICER</option><option value="14" >LOGISTIC SUPERVISOR</option><option value="15" >CREDIT OFFICE</option><option value="17" >LIFE INSURANCE</option><option value="18" >RM/BSM</option><option value="19" >RO/RM</option><option value="20" >SALE&#039;S EXICUTIVE</option><option value="21" >WORKER FOR MILK PLANT</option><option value="30" >SALES EXECUTIVE</option><option value="31" >ASSOCIATE BRANCH MANAGER</option><option value="32" >SHOWROOM SALES PERSON</option><option value="33" >ACCOUNTANT</option><option value="34" >HOTEL WAITER</option><option value="35" >महिला सफाई कर्मचारी</option><option value="36" >SOCIAL MEDIA MANAGER</option><option value="37" >SOCIAL MEDIA MANAGER</option><option value="38" >HELPER</option><option value="39" >ऑटो डील पर सेल्स बॉय</option><option value="40" >CAR DRIVER</option><option value="41" >LEAD GENERATION 1</option><option value="42" >LOGISTIC SUPERVISOR</option>                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Full Name*</label>
+                                <input id="fullname" name="fullname" class="form-control" type="text">
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Email Id*</label>
+                                <input name="emailId" class="form-control" type="email" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Mobile Number*</label>
+                                <input id="mobile" name="mobile" class="form-control" type="text" maxlength="10" required>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12">
+                            <div class="form-group">
+                                <label>Message</label>
+                                <input name="message" class="form-control" type="text" required>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <input class="btn-send" type="submit" name="submit_job_enquiry" value="Submit">
+
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- <script>
+    var counterContainer = document.querySelector(".website-counter");
+    var resetButton = document.querySelector("#reset");
+    var visitCount = localStorage.getItem("page_view");
+
+    // Check if page_view entry is present
+    if (visitCount) {
+    visitCount = Number(visitCount) + 1;
+    localStorage.setItem("page_view", visitCount);
+    } else {
+    visitCount = 1;
+    localStorage.setItem("page_view", 1);
+    }
+    counterContainer.innerHTML = visitCount;
+
+    // Adding onClick event listener
+    resetButton.addEventListener("click", () => {
+    visitCount = 1;
+    localStorage.setItem("page_view", 1);
+    counterContainer.innerHTML = visitCount;
+    });
+
+</script> --></body>
+
+</html>
+<script type="text/javascript">
+    $(window).on('load', function() {
+        var delayMs = 1000; // delay in milliseconds
+
+        setTimeout(function() {
+            $('#myModalsdsfs').modal('show');
+        }, delayMs);
+    });
+</script>
